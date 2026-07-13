@@ -1,0 +1,106 @@
+{
+  "steps": [
+    {
+      "number": 1,
+      "title": "Consultation & Concept",
+      "shortDescription": "Your ideas lead the way",
+      "description": "We begin by understanding your lifestyle, preferences, and vision. Every design starts with a conversation — your ideas lead the way.",
+      "duration": "1-2 weeks",
+      "deliverables": [
+        "Initial consultation",
+        "Vision discussion",
+        "Budget framework",
+        "Timeline proposal"
+      ],
+      "icon": "MessageSquare"
+    },
+    {
+      "number": 2,
+      "title": "Space Planning & Layout",
+      "shortDescription": "Ensuring every corner serves a purpose",
+      "description": "We analyze your space and create functional layouts that balance beauty, comfort, and flow — ensuring every corner serves a purpose.",
+      "duration": "2-3 weeks",
+      "deliverables": [
+        "Space analysis",
+        "Functional layouts",
+        "Flow optimization",
+        "Preliminary floor plans"
+      ],
+      "icon": "Lightbulb"
+    },
+    {
+      "number": 3,
+      "title": "Design Development",
+      "shortDescription": "Crafting a cohesive concept",
+      "description": "From mood boards to material palettes, we craft a cohesive concept that reflects your personality and enhances your everyday living.",
+      "duration": "2-4 weeks",
+      "deliverables": [
+        "Mood boards",
+        "Material palettes",
+        "Color schemes",
+        "Design concept presentation"
+      ],
+      "icon": "Pencil"
+    },
+    {
+      "number": 4,
+      "title": "Material Selection",
+      "shortDescription": "Combining textures, tones, and details",
+      "description": "We handpick high-quality finishes, fixtures, and furnishings — combining textures, tones, and details for timeless elegance.",
+      "duration": "2-3 weeks",
+      "deliverables": [
+        "Material specifications",
+        "Fixture selections",
+        "Furniture sourcing",
+        "Sample boards"
+      ],
+      "icon": "ShoppingBag"
+    },
+    {
+      "number": 5,
+      "title": "Execution & Supervision",
+      "shortDescription": "Seamless coordination and precision",
+      "description": "Our team ensures seamless coordination and precise workmanship throughout the renovation and installation process.",
+      "duration": "4-12 weeks",
+      "deliverables": [
+        "Site supervision",
+        "Quality control",
+        "Progress updates",
+        "Contractor coordination"
+      ],
+      "icon": "Hammer"
+    },
+    {
+      "number": 6,
+      "title": "Final Styling & Handover",
+      "shortDescription": "Ready to live beautifully",
+      "description": "We add the finishing touches that bring your space to life — refined, balanced, and ready to live beautifully.",
+      "duration": "1 week",
+      "deliverables": [
+        "Professional styling",
+        "Accessory placement",
+        "Final walkthrough",
+        "Care & maintenance guide"
+      ],
+      "icon": "Sparkles"
+    }
+  ],
+  "faq": [
+    {
+      "question": "How long does a typical project take?",
+      "answer": "Project timelines vary based on scope and complexity. A single-room design may take 6-8 weeks, while full home renovations typically span 3-6 months. We provide detailed timelines during the consultation phase."
+    },
+    {
+      "question": "What is your design fee structure?",
+      "answer": "We offer transparent pricing tailored to each project's scope. Our fees typically include an initial consultation, design development, and project management. Detailed proposals are provided after the discovery consultation."
+    },
+    {
+      "question": "Do you work with existing furniture?",
+      "answer": "Absolutely. We're skilled at blending cherished existing pieces with new elements to create cohesive, personalized spaces that honor your history while embracing fresh design."
+    },
+    {
+      "question": "Can you work within my budget?",
+      "answer": "Yes. We pride ourselves on creating beautiful designs across various budget ranges. During our initial consultation, we discuss your budget openly and develop solutions that maximize value without compromising quality."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "A. Azhdarinia",
+    "location": "Houston, TX",
+    "project": "Home Remodeling",
+    "rating": 5,
+    "quote": "It was an absolute pleasure to work with Sonya on remodeling projects in our home. She was incredible at blending our existing decor with our desire for a new look in multiple living room areas. She knows her stuff and helped us transform our house into a more modern and cozy space.",
+    "image": "/images/team/client-1.jpg",
+    "date": "2024-10-15"
+  },
+  {
+    "id": 2,
+    "name": "Kalyani",
+    "location": "Houston, TX",
+    "project": "Master Bedroom & Living Room",
+    "rating": 5,
+    "quote": "Sonya and her team were absolutely amazing! They did paneling in our master, our staircase wall and the floating shelves in our living room and the entire team's attention to detail was phenomenal. Sonya was always attentive, responsive and guided my choices in a respectful and welcoming way.",
+    "image": "/images/team/client-2.jpg",
+    "date": "2024-09-22"
+  },
+  {
+    "id": 3,
+    "name": "Ravi T",
+    "location": "Houston, TX",
+    "project": "Contemporary Home Design",
+    "rating": 5,
+    "quote": "We hired Sonya to help with making our contemporary new home feel more warm and reflective of who we are as a family. She understood our design sensibilities and preferences and provided us with alternatives that we are excited to pick from. The best part is that she not only provided us with excellent designs but also had a high quality team that could bring the design to reality within expected timelines and budget!",
+    "image": "/images/team/client-3.jpg",
+    "date": "2024-08-10"
+  },
+  {
+    "id": 4,
+    "name": "R. Malani",
+    "location": "Houston, TX",
+    "project": "Full Home Remodel",
+    "rating": 5,
+    "quote": "We hired Sonya for our home remodel and it was a great experience. She is hardworking, has good taste and always responsive to our needs. We built a new bedroom for our daughter and it came out fantastic. We also did a redesign of several other rooms (kitchen, formal living, bathrooms, etc.) and all livened up the entire aesthetic of our home.",
+    "image": "/images/team/client-4.jpg",
+    "date": "2024-07-18"
+  },
+  {
+    "id": 5,
+    "name": "Jennifer Martinez",
+    "location": "River Oaks, Houston",
+    "project": "Kitchen & Living Room Renovation",
+    "rating": 5,
+    "quote": "Sonya transformed our home into something we only dreamed of. Her attention to detail and understanding of our lifestyle made all the difference.",
+    "image": "/images/team/client-5.jpg",
+    "date": "2024-06-15"
+  },
+  {
+    "id": 6,
+    "name": "David Chen",
+    "location": "The Heights, Houston",
+    "project": "Full Home Renovation",
+    "rating": 5,
+    "quote": "Working with Decor'em was effortless. The team managed everything professionally, and the result exceeded our expectations. Our home feels both elegant and livable.",
+    "image": "/images/team/client-6.jpg",
+    "date": "2024-05-22"
+  }
+]

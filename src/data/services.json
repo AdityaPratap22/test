@@ -1,0 +1,72 @@
+[
+  {
+    "id": "kitchen-design",
+    "title": "Kitchen Design",
+    "description": "Modern, modular kitchens built for beauty and function.",
+    "longDescription": "Transform your kitchen into the heart of your home with our bespoke kitchen design services. We blend contemporary aesthetics with practical functionality, creating spaces that inspire culinary creativity.",
+    "image": "/images/kitchens/Copy of Copy of 14314 Castlemaine_High Res_0005.jpg",
+    "features": [
+      "Custom cabinetry and storage solutions",
+      "Premium countertop selection",
+      "Smart appliance integration",
+      "Lighting design optimization"
+    ],
+    "link": "/portfolio#kitchens"
+  },
+  {
+    "id": "living-room",
+    "title": "Living Room Design",
+    "description": "Spaces that balance comfort with sophisticated style.",
+    "longDescription": "Create an inviting atmosphere where elegance meets relaxation. Our living room designs reflect your personality while maintaining a timeless appeal.",
+    "image": "/images/living/Copy of file_000000006fe472099466664a6a4c22a3.png",
+    "features": [
+      "Furniture selection and arrangement",
+      "Color palette development",
+      "Textile and upholstery curation",
+      "Ambient lighting design"
+    ],
+    "link": "/portfolio#living"
+  },
+  {
+    "id": "bedroom-sanctuary",
+    "title": "Bedroom Sanctuary",
+    "description": "Restful retreats designed for tranquility and rejuvenation.",
+    "longDescription": "Your bedroom should be a personal sanctuary. We design serene spaces that promote rest, relaxation, and reflect your individual style.",
+    "image": "/images/bedrooms/Copy of IMG_0369.PNG",
+    "features": [
+      "Custom closet organization",
+      "Luxurious bedding selection",
+      "Calming color schemes",
+      "Multi-functional layouts"
+    ],
+    "link": "/portfolio#bedrooms"
+  },
+  {
+    "id": "bathroom-spa",
+    "title": "Bathroom & Spa Design",
+    "description": "Spa-like escapes that elevate your daily routine.",
+    "longDescription": "Experience luxury every day with bathrooms designed to feel like private spas. Premium materials, thoughtful layouts, and elegant fixtures combine for the ultimate retreat.",
+    "image": "/images/bathrooms/Copy of Copy of IMG_0651.PNG",
+    "features": [
+      "Premium fixture selection",
+      "Custom tile and stone work",
+      "Efficient storage solutions",
+      "Spa-inspired amenities"
+    ],
+    "link": "/portfolio#bathrooms"
+  },
+  {
+    "id": "house-paint",
+    "title": "House Paint & Color Consultation",
+    "description": "Expert color selection and professional painting services.",
+    "longDescription": "Transform your space with the perfect color palette. Our house painting and color consultation services combine expert knowledge with quality execution to bring new life to your home's interior and exterior.",
+    "image": "/images/House_Paint/Copy of After_.jpg",
+    "features": [
+      "Professional color consultation",
+      "Interior and exterior painting",
+      "Premium paint selection",
+      "Surface preparation and finishing"
+    ],
+    "link": "/portfolio#housepaint"
+  }
+]
